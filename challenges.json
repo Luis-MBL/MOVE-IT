@@ -1,0 +1,32 @@
+[
+  {
+    "type": "body",
+    "description": "Estique seus braços...",
+    "amount": 80
+  },
+  {
+    "type": "body",
+    "description": "Estique seu braço...",
+    "amount": 60
+  },
+  {
+    "type": "body",
+    "description": "Cruze as pernas...",
+    "amount": 100
+  },
+  {
+    "type": "eye",
+    "description": "Em algum ambiente aberto...",
+    "amount": 140
+  },
+  {
+    "type": "eye",
+    "description": "Usando os polegares...",
+    "amount": 70
+  },
+  {
+    "type": "body",
+    "description": "Em pé, gire a cintura...",
+    "amount": 90
+  }
+]
